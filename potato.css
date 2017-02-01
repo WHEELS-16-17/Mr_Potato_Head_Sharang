@@ -54,13 +54,15 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
-
-
-
+#glasses_image{
+  top:90px;
+  left:100px;
+}
 
 /* Insert CSS for hat below this line*/
-
-
+#hat_image{
+  left:100px; 
+}
 
 
 /* Insert CSS for arms below this line*/
