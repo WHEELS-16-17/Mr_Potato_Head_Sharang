@@ -19,15 +19,14 @@ h1 {
 
 /* Insert CSS for body below this line*/
 #body { 
-  top: 28px; left: 68px; 
+  top: 28px; 
+  left: 68px;
 }
 /* Insert CSS for arms below this line*/
 #arms_image{
   top:170px;
   right:30px;
 }
-
-
 
 
 /* Insert CSS for ears below this line*/
@@ -55,7 +54,8 @@ h1 {
 
 /* Insert CSS for eyebrows below this line*/
 #eyebrows_image{
-  top: 60px; right:122px;
+  top: 80px; 
+  left: 110px;
 }
 
 
@@ -79,7 +79,8 @@ h1 {
 
 /* Insert CSS for moustache below this line*/
 #moustache_image{
-  bottom:255px; right:90px
+  top: 170px; 
+  left: 90px;
 }
 
 
