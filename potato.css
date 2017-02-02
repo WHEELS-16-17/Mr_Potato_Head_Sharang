@@ -54,18 +54,22 @@ h1 {
 
 
 /* Insert CSS for eyebrows below this line*/
-
+#eyebrows_image{
+  top: 60px; right:122px;
+}
 
 
 
 /* Insert CSS for glasses below this line*/
-
-
-
+#glasses_image{
+  top:90px;
+  left:100px;
+}
 
 /* Insert CSS for hat below this line*/
-
-
+#hat_image{
+  left:100px; 
+}
 
 
 /* Insert CSS for arms below this line*/
@@ -74,12 +78,15 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
-
+#moustache_image{
+  bottom:255px; right:90px
+}
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+Bottom: 100px; right: 69px;
+}
 
 
 
